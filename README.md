@@ -10,7 +10,7 @@ A simple component built using two controls - an image control and a label contr
 
 There is absolutely nothing wrong with using built-in timer controls to animate your objects however this is a very easy way to rack up the number of controls in your application which can drastically impact its loading time (no pun intended!), especially when you're connecting to a number of data sources.
 
-SVGs are written in XML meaning that they are incredibly small in size, even with all the animations included, and you can freely use as many as you like across your screens without affecting the total size of your app.
+SVGs are written in XML meaning that they are incredibly small in size, even with all the animations included, and you can freely use as many as you like across your screens without affecting the total size of your app. The component is also responsive as you can see above and the image will automatically scale up without affecting its quality (SVG stands for Scalable Vector Graphics if you've never heard of them 😊).
 
 The component has a couple of very simple properties:
 
